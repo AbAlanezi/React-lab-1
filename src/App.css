@@ -1,0 +1,23 @@
+.cas{
+  display: flex;
+}
+.cards{
+  display: flex;
+}
+.card{
+  width: 200px;
+  border: 1px black solid;
+  
+  box-shadow: 3px 3px 11px -4px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 3px 3px 11px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 3px 11px -4px rgba(0,0,0,0.75);
+  margin: 5%;
+}
+
+.card-body{
+  padding: 5px;
+  padding-bottom: 30px;
+}
+.card-title{
+  font-size: 1rem;
+}
